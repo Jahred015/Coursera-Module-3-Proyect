@@ -1,4 +1,4 @@
-# Quora-Module-3-Proyect
+# Coursera-Module-3-Proyect
 Repository used for the Coursera Lab in course 3 module 3.
 
 I am editing the README file. Adding some more details about the project description.
